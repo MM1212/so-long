@@ -1,0 +1,6 @@
+size: 4
+---
+textures/patrol/idle_right/tex.slprops
+textures/patrol/idle_left/tex.slprops
+textures/patrol/running_right/tex.slprops
+textures/patrol/running_left/tex.slprops

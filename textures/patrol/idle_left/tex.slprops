@@ -1,0 +1,6 @@
+tag: idle_left
+size: 2
+frame_duration: 350
+---
+textures/patrol/idle_left/idle_00.xpm
+textures/patrol/idle_left/idle_01.xpm

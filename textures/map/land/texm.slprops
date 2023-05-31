@@ -1,0 +1,13 @@
+size: 11
+---
+textures/map/land/full/tex.slprops
+textures/map/land/tree_left/tex.slprops
+textures/map/land/tree_right/tex.slprops
+textures/map/land/right/tex.slprops
+textures/map/land/left/tex.slprops
+textures/map/land/top/tex.slprops
+textures/map/land/bottom/tex.slprops
+textures/map/land/bottom_left/tex.slprops
+textures/map/land/bottom_right/tex.slprops
+textures/map/land/top_left/tex.slprops
+textures/map/land/top_right/tex.slprops

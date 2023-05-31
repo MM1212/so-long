@@ -1,0 +1,9 @@
+tag: bottom
+size: 5
+frame_duration: 1000
+---
+textures/map/land/bottom/bottom_00.xpm
+textures/map/land/bottom/bottom_01.xpm
+textures/map/land/bottom/bottom_02.xpm
+textures/map/land/bottom/bottom_03.xpm
+textures/map/land/bottom/bottom_04.xpm

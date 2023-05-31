@@ -1,0 +1,6 @@
+tag: idle_right
+size: 2
+frame_duration: 350
+---
+textures/player/idle_right/idle_00.xpm
+textures/player/idle_right/idle_01.xpm

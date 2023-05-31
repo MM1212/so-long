@@ -1,0 +1,7 @@
+tag: running_right
+size: 3
+frame_duration: 100
+---
+textures/player/running_right/running_00.xpm
+textures/player/running_right/running_01.xpm
+textures/player/running_right/running_02.xpm

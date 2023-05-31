@@ -1,0 +1,7 @@
+*.o
+*.a
+so_long
+*.png
+textures/images
+valgrind-out.txt
+norm-errors.txt

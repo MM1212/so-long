@@ -1,0 +1,7 @@
+tag: opening
+size: 3
+frame_duration: 1000
+---
+textures/chests/closed/closed_00.xpm
+textures/chests/opening/opening_00.xpm
+textures/chests/opening/opening_01.xpm

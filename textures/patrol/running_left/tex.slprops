@@ -1,0 +1,7 @@
+tag: running_left
+size: 3
+frame_duration: 100
+---
+textures/patrol/running_left/running_00.xpm
+textures/patrol/running_left/running_01.xpm
+textures/patrol/running_left/running_02.xpm

@@ -1,0 +1,6 @@
+size: 4
+---
+textures/player/idle_right/tex.slprops
+textures/player/idle_left/tex.slprops
+textures/player/running_right/tex.slprops
+textures/player/running_left/tex.slprops

@@ -1,0 +1,10 @@
+tag: top
+size: 6
+frame_duration: 1150
+---
+textures/map/land/top/top_00.xpm
+textures/map/land/top/top_01.xpm
+textures/map/land/top/top_02.xpm
+textures/map/land/top/top_03.xpm
+textures/map/land/top/top_04.xpm
+textures/map/land/top/top_05.xpm
